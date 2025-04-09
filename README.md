@@ -10,6 +10,9 @@ Ziel war es, mit Git & GitHub zu üben und ein erstes öffentliches Repository z
 - Git-Kommandos wie `init`, `add`, `commit`, `push`
 - Veröffentlichung des Projekts auf GitHub
 
+##Screenshot
+![alt text](image.png)
+
 ## Gelerntes
 
 - Wie Git funktioniert (lokal & remote)
