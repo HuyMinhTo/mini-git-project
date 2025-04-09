@@ -10,10 +10,6 @@ Ziel war es, mit Git & GitHub zu üben und ein erstes öffentliches Repository z
 - Git-Kommandos wie `init`, `add`, `commit`, `push`
 - Veröffentlichung des Projekts auf GitHub
 
-## Screenshots
-
-*(Optional: hier kannst du z. B. mit [Windows Snipping Tool] oder `cmd+shift+4` ein Screenshot deiner Website machen und in den Ordner legen.)*
-
 ## Gelerntes
 
 - Wie Git funktioniert (lokal & remote)
