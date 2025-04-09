@@ -16,12 +16,5 @@ Ziel war es, mit Git & GitHub zu üben und ein erstes öffentliches Repository z
 - Wie man ein Projekt sauber auf GitHub veröffentlicht
 - Warum Commit-Messages und Repositories wichtig sind
 
-## Nächste Schritte
-
-- GitHub Pages ausprobieren?
-- Das Projekt aufhübschen (z. B. Dark Mode)
-- Responsives Design ergänzen
-
----
 
 © 2025 Huy Minh To
